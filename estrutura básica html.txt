@@ -1,0 +1,19 @@
+<!doctype html> 
+
+<html lang = "pt-BR">
+
+<head>
+
+<title>Page Title</title>
+
+<meta charset=utf-8>
+
+<link rel="shortcut icon" href="favicon.ico" type="image/x-ico">
+
+</head>
+
+<body>
+
+</body>
+
+</html>

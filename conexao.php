@@ -2,12 +2,11 @@
 $servidor="localhost";
 $usuario="root";
 $senha="";
-$dbname="agenda";
+$dbname="cep";
 
 //Criar conexão:
 
 $conn = mysqli_connect($servidor, $usuario, $senha, $dbname);
-
 
 /*
 if ($conn) {
